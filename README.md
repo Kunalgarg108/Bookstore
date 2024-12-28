@@ -1,4 +1,4 @@
-# Bookstore-
+# Bookstore
 This project is a fully functional Bookshop Web Page created using a combination of HTML, CSS, and JavaScript. The project is designed to provide an interactive and visually appealing user interface, allowing users to explore various book categories, search for books, and navigate back to the top of the page seamlessly.
 
 # Technologies Used:
